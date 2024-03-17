@@ -1,2 +1,2 @@
 # SpriteAnimation
-First Run at Sprite Animation
+First Run at Sprite Animation Using HTML CSS & JS
